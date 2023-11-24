@@ -1,0 +1,9 @@
+Test results for user 123
+COVID Result: Haven't been tested. Consider getting tested.
+Vaccine Result: Fully Vaccinated
+Test results for user 123
+COVID Result: Haven't been tested. Consider getting tested.
+Vaccine Result: Partially Vaccinated
+Test results for user 123
+COVID Result: Haven't been tested. Consider getting tested.
+Vaccine Result: Fully Vaccinated
